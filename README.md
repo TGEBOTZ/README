@@ -35,7 +35,7 @@
      <a/>
    </p>
 
-     ----
+    ----
 
    <p align="center">
    <b>SUPPORT US</b>
