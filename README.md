@@ -62,5 +62,5 @@
 
 
 
-   [![Thanks](https://img.shields.io/badge/Thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+   [![Thanks](https://img.shields.io/badge/Thanks-ff69b4.svg)](https://t.me/mnzks)
 
