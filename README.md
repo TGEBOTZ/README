@@ -57,4 +57,4 @@
 
 
      
-   [![forthebadge made-with-rust](http://google.com/images/badges/MUZAFIR.svg)](https://www.google.com/)
+   [![forthebadge MUZAFIR](http://google.com/images/badges/made-with-rust.svg)](https://www.google.com/)
