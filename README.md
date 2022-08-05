@@ -30,6 +30,6 @@
      <a href="https://www.instagram.com/muzafir____" target="blank">
        <img src="https://img.icons8.com/bubbles/100/0000/instagram-new.png" alt="Muzafir-instagram" />
      <a/>
-     <a href="https://www.facebook.com/inbliz" target="blank">
-       <img src="https://img.icons8.com/bubbles/100/0000/facebook-squared.png" alt="inbliz-facebook" />
+     <a href="https://www.facebook.com/Ebotz.TG" target="blank">
+       <img src="https://img.icons8.com/bubbles/100/0000/facebook-new.png" alt="EbotzTG-facebook" />
      <a/>
