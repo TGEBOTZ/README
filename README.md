@@ -7,15 +7,15 @@
 
    <div id="badges">
      <a href="your-linkedin-URL">
-       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+       <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white"
    alt="LinkedIn Badges"/>
      </a>
      <a href="your-youtube-URL">
-       <img src="https://img.shields.io/badge/Youtube-white?style=for-the-badge&logo=youtube&logoColor=red"
+       <img src="https://img.shields.io/badge/Youtube-yellow?style=for-the-badge&logo=youtube&logoColor=white"
    alt="Youtube Badge"/>
      </a>
      <a href="your-instagram-URL">
-       <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=red"
+       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"
    alt="Instagram Badge"/>
      <a/>
    </div>
