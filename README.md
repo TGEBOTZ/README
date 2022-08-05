@@ -27,5 +27,5 @@
    </p>
 
    <p align="center">
-     <a href="https://www.facebook.com/" target="blank">
+     <a href="https://www.facebook.com/Ebotz.TG" target="blank">
        <img src="https://img.icons8.com/bubbles/100/0000/facebook-new.png" alt="EBOTZ-facebook" />"
