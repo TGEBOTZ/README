@@ -40,6 +40,6 @@
    <p align="center">
    <b>SUPPORT US</b>
    </p>
-      <a href="your-linkedin-URL">
-       <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white"
+      <a href="https://t.me/inbliz">
+       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white"
    alt="LinkedIn Badges"/>
