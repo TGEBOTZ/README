@@ -28,4 +28,4 @@
 
    <p align="center">
      <a href="https://www.facebook.com/" target="blank">
-       <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="EBOTZ-facebook" />"
+       <img src="https://img.icons8.com/bubbles/100/0000/facebook-new.png" alt="EBOTZ-facebook" />"
