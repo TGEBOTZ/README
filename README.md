@@ -41,5 +41,5 @@
    <b>SUPPORT US</b>
    </p>
       <a href="https://t.me/inbliz">
-       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"
    alt="Telegram Badges"/>
