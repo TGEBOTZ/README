@@ -57,4 +57,4 @@
 
 
      
-   [![forthebadge MUZAFIR](http://google.com/images/badges/made-with-rust.svg)](https://www.google.com/)
+   [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/TGEBOTZ/)
