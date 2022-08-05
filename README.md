@@ -39,4 +39,6 @@
 
    <p align="center">
    <b>SUPPORT US</b>
-  
+      <a href="your-linkedin-URL">
+       <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white"
+   alt="LinkedIn Badges"/>
