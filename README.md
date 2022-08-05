@@ -15,7 +15,7 @@
    alt="Youtube Badge"/>
      </a>
      <a href="your-instagram-URL">
-       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"
+       <img src="https://img.shields.io/badge/Instagram-palette?style=for-the-badge&logo=instagram&logoColor=white"
    alt="Instagram Badge"/>
      <a/>
    </div>
