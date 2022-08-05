@@ -62,6 +62,6 @@
 
 
 
-    [![Thanks](https://img.shields.io/badge/Thanks-900048.svg)](https://t.me/mnzks)
+   [![Thanks](https://img.shields.io/badge/Thanks-900048.svg)](https://t.me/mnzks)
      </a>
-    [![forthebadge made-with-rust](http://ForTheBadge.com/images/badges/made-with-rust.svg)](https://www.rust-lang.org/)
+   [![forthebadge made-with-rust](http://ForTheBadge.com/images/badges/made-with-rust.svg)](https://www.rust-lang.org/)
