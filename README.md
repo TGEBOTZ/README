@@ -41,6 +41,6 @@
    <b>SUPPORT US</b>
    </p>
    <p align="center">
-   <a href="https://telegram.dog/inbliz"><img alt="telegram" src="https://img-shields.io/badge/Updates-%22B1B17.svg?
+   <a href="https://telegram.dog/inbliz"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?
    &logo=telegram&logoColor=white"></a> 
 
