@@ -29,3 +29,7 @@
    <p align="center">
      <a href="https://www.instagram.com/muzafir____" target="blank">
        <img src="https://img.icons8.com/bubbles/100/0000/instagram-new.png" alt="Muzafir-facebook" />"
+     <a/>
+     <a href="https://www.telegram.com/inbliz" target="blank">
+       <img src="https://img.icons8.com/bubbles/100/0000/instagram-new.png" alt="inbliz-facebook" />"
+     
