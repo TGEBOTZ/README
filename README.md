@@ -64,3 +64,4 @@
 
    [![Thanks](https://img.shields.io/badge/Thanks-900048.svg)](https://t.me/mnzks)
 
+   [![EBOTZ](https://stars.medv.io/EBOTZ/badges.svg)](https://github.com/TGEBOTZ)
