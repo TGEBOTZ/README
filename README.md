@@ -42,4 +42,4 @@
    </p>
       <a href="https://t.me/inbliz">
        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-   alt="LinkedIn Badges"/>
+   alt="Telegram Badges"/>
