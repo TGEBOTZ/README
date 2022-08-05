@@ -33,14 +33,14 @@
      <a href="https://www.facebook.com/Ebotz.TG" target="blank">
        <img src="https://img.icons8.com/bubbles/100/0000/facebook-new.png" alt="EbotzTG-facebook" />
      <a/>
-    </p>
+   </p>
 
      ----
 
-    <p align="center">
-    <b>SUPPORT US</b>
-    </p>
-    <p align="center">
-    <a href="https://telegram.dog/inbliz"><img alt="telegram" src="https://img-shields.io/badge/Updates-%22B1B17.svg?
+   <p align="center">
+   <b>SUPPORT US</b>
+   </p>
+   <p align="center">
+   <a href="https://telegram.dog/inbliz"><img alt="telegram" src="https://img-shields.io/badge/Updates-%22B1B17.svg?
      &logo=telegram&logoColor=white"></a> 
 
