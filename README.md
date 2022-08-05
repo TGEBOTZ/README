@@ -12,8 +12,8 @@
      </a>
      <a href="your-youtube-URL">
        <img src="https://img.shields.io/badge/Youtube-white?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube
-   Badge"/>,
-     </a>
+   Badge"/>
+   
      <a href="your-instagram-URL">
        <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram
    Badge"/>
