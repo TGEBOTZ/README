@@ -1,6 +1,5 @@
 # README
 
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
      </a>
    <div id="badges" align="center">
      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -44,3 +43,24 @@
       <a href="https://t.me/inbliz">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white"
    alt="Telegram Badges"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   [![Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+
