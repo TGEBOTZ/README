@@ -32,7 +32,7 @@
    </p>
 
    <p align="center">
-     <a href=https://instagram.com/@muzafir____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@inbliz_" height="30" width="40" /></a>
+     <a href=https://instagram.com/muzafir____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@inbliz_" height="30" width="40" /></a>
      <a/>
      <a href="https://www.youtube.com/c/inbliz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inbliz" height="30" width="40" /></a>
      <a/>
