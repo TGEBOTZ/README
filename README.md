@@ -1,7 +1,7 @@
 # INBLIZ
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗠𝗞𝗡'𝗦+𝗚𝗶𝘁𝗛𝘂𝗯!;𝗜𝗮𝗺+𝗠𝗿+𝗠𝗞𝗡+𝗧𝗚!;𝗜𝗮𝗺+𝗷𝘂𝘀𝘁+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗕𝗼𝘁+𝗠𝗮𝗸𝗲𝗿!)</p>
-<p align="centre">
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙈𝙔+𝗚𝗶𝘁𝗛𝘂𝗯!;𝙄𝘼𝙈+𝙀𝘽𝙊𝙏𝙕+𝙏𝙂!;𝙄𝘼𝙈+𝙅𝙐𝙎𝙏+𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈+𝘽𝙊𝙏+𝙈𝘼𝙆𝙀𝙍!)</p>
+<p align="center">
 
 </a>
     
