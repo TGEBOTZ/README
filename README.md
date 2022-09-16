@@ -53,7 +53,7 @@
    alt="Telegram Badges"/>
 
 
-🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
+     🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
  
 <p align="center">
 <img width="13%" src="https://telegra.ph/file/72882469165faec6d2e03.jpg" />
