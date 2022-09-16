@@ -1,6 +1,6 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙈𝙔+𝗚𝗶𝘁𝗛𝘂𝗯!)
+   <p align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙈𝙔+𝗚𝗶𝘁𝗛𝘂𝗯!)</p>
 
 </a>
     
