@@ -82,10 +82,9 @@
 <details>
   <summary><b>THANKS</b></summary>
     <p align="left">
-        <br><b><u>This repository cannot be able deploy in heroku due to some reasons.</u></b><br>To deploy this bot in heroku..<br><br>
-        1. Fork this Repository first.<br>
-        2. Change the URL of 'repository' parameter in <a href="https://github.com/m4mallu/clonebot/blob/master/app.json#L7"> app.json</a> to your fork URL.<br>
-        3. Change the <a href="https://github.com/m4mallu/clonebot/blob/master/README.md?plain=1#L33"> Deploy button URL</a> to your fork URL.<br>
-        4. Finally, deploy it from your own fork.<br><br>
+        <br><b><u>
+        1. 404 COD<br>
+        2. INBLIZ <br>
+        3. EBOTZ TG <br><br>
 </p>
 </details>
