@@ -61,3 +61,11 @@
 
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
+<details>
+  <summary><b>Credits</b></summary>
+    <p align="left">
+      <a href="https://github.com/pyrogram/pyrogram">
+        <img src="https://img.shields.io/badge/Pyrogram-MTProto%20API-orange?style=for-the-badge&logo=pyrogram">
+    </a>
+</p>
+</details>
