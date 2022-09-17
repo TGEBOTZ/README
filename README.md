@@ -55,7 +55,9 @@
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-          🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
+   <p align="center">
+      🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
+   </p>
  
 <p align="center">
 <img width="13%" src="https://telegra.ph/file/72882469165faec6d2e03.jpg" />
