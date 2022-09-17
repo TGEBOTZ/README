@@ -72,6 +72,6 @@
 
 <p align="center">
     <a href="https://t.me/space4renjith">
-        <img alt="GPL3" src ="https://telegra.ph/file/7ee82672c1e101d695d9c.gif" width="340" height="214"/>
+        <img alt="GPL3" src ="https://telegra.ph/file/7ee82672c1e101d695d9c.mp4" width="340" height="214"/>
     </a>
 </p>
