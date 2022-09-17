@@ -78,3 +78,11 @@
         <img alt="GPL3" src ="https://telegra.ph/file/302b2640dd60d6c830cf7.jpg" width="340" height="214"/>
     </a>
 </p>
+
+<details>
+  <summary><b>THANKS</b></summary>
+    <p align="left">
+      <a MUZAFIR 
+    </a>
+</p>
+</details>
