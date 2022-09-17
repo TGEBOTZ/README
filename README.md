@@ -1,5 +1,6 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙈𝙔+𝗚𝗶𝘁𝗛𝘂𝗯!)
-
+   <p align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙈𝙔+𝗚𝗶𝘁𝗛𝘂𝗯!)
+   </p>
 </a>
     
    <div id="badges" align="center">
