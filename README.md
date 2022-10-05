@@ -1,9 +1,3 @@
-| Emoji | Details | Info |
-| ---- | ---- | ---- |
-| 🤵 | Name | Muhammed |
-| 📆 | Age| 🔞 |
-| 🏞️ | Place | Kerala Kasaragod |
-| 📣 | Language | Malayalam |
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙈𝙔+𝗚𝗶𝘁𝗛𝘂𝗯!)
 </a>
