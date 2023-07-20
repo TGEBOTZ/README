@@ -15,10 +15,6 @@
        <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white"
    alt="Youtube Badge"/>
      </a>
-     <a href="your-instagram-URL">
-       <img src="https://img.shields.io/badge/Instagram-800e56?style=for-the-badge&logo=instagram&logoColor=white"
-   alt="Instagram Badge"/>
-     <a/>
    </div>
 
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
